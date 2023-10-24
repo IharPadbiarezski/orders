@@ -1,0 +1,10 @@
+.form-section-name {
+  color: var(--comet-comet-600, #595b83);
+
+  /* LG */
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 161.104%; /* 25.777px */
+}
